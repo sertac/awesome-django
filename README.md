@@ -47,6 +47,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
     - [Books](#books)
     - [Conferences](#conferences)
     - [Videos](#videos)
+    - [Jobs](#jobs)
     - [Websites](#websites)
 - [Contributing](#contributing)
 
@@ -434,6 +435,9 @@ Where to discover new Django apps and projects.
 * [High Performance Django](highperformancedjango.com) (1.7) - Deploying fast, scalable Django sites.
 * [Two Scoops of Django: Best Practices for Django 1.8](http://twoscoopspress.org/products/two-scoops-of-django-1-8/) - A best practice book for making Python and Django as fun as ice cream.
 
+## Jobs
+
+* [Djangojobs.Net](http://djangojobs.net) - DjangoJobs is the best python job board to hire Python programmers. Find & Search Freelance, Fulltime, Parttime Senior Python Developer Jobs.
 
 ## Websites
 
